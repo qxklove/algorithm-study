@@ -52,9 +52,9 @@ public class LongestCommonPrefix {
 
     public static void main(String[] args) {
         String[] strs = {"customer", "car", "cat"};
-        // String[] strs = { "customer", "car", null };//空串
-        // String[] strs = {};//空串
-        // String[] strs = null;//空串
-        System.out.println(LongestCommonPrefix.replaceSpace(strs));// c
+        // String[] strs = { "customer", "car", null }; //空串
+        // String[] strs = {}; //空串
+        // String[] strs = null; //空串
+        System.out.println(LongestCommonPrefix.replaceSpace(strs)); // c
     }
 }
