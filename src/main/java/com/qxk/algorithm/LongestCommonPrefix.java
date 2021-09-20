@@ -6,7 +6,7 @@ import java.util.Arrays;
  * 最长公共前缀
  * Leetcode: 编写一个函数来查找字符串数组中的最长公共前缀。如果不存在公共前缀，返回空字符串 ""。
  *
- * @author laijianzhen
+ * @author qxk
  * @date 2021/08/06
  */
 public class LongestCommonPrefix {
